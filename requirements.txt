@@ -1,0 +1,9 @@
+requests
+sounddevice
+pydantic>=2.5.3
+python-dotenv
+numpy
+PySide6
+sseclient-py>=1.8.0
+aiohttp>=3.10.11
+openai>=1.68.2 
